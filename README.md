@@ -1,0 +1,1 @@
+# csc244-lab-2--algebraic-simplification-demorgan-s-theorems-solved
